@@ -1,9 +1,9 @@
-Getting and Cleaning Data Coursera - Johns Hopkins University : Course Project 
+## Getting and Cleaning Data Coursera - Johns Hopkins University : Course Project 
 
 
 The data is available at the UCI HAR Dataset directory: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-Instructions:
+* Instructions:
 
     You should create one R script called run_analysis.R that does the following. 
 
@@ -18,7 +18,7 @@ Instructions:
     From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each     activity and each subject.
 
 
-Steps:
+* Steps:
 
     Unzip the source (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) into a folder     on your local drive.
 
